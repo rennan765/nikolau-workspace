@@ -1,0 +1,4 @@
+*.sh
+*.pdf
+*.py
+documents/*.pdf
