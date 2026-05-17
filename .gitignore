@@ -1,3 +1,6 @@
 *.sh
 *.pdf
 documents/*.pdf
+
+skills/venv/
+skills/__pycache__/

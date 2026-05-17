@@ -37,4 +37,18 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 
 ---
 
-Add whatever helps you do your job. This is your cheat sheet.
+## convert-pdf-to-md-tool
+
+Tool to convert PDF files to markdown files.
+
+Call: Load `skills/PDF_TO_MARKDOWN.md` and follow instructions.
+
+When: human send new PDF file or ask to convert specific PDF file from another place, such as sme file on disk or PDF from an URL.
+
+## document-index-tool
+
+Tool used to index document's data, to be easy to agent found document when it's necessary.
+
+Call: Load `skills/DOCUMENT_INDEX.md` and follow instructions. Default content's folder is `documents` folder on workspace.
+
+When: human or another agent ask do index some specific markdown file.

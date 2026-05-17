@@ -211,7 +211,11 @@ The goal: Be helpful without being annoying. Check in a few times a day, do usef
 
 This is a starting point. Add your own conventions, style, and rules as you figure out what works.
 
-## Git Preferences
+## About some task preferences
+
+Some preferences has to be used to human's requests. If asked to run something, check `TOOLS.md` again if needes.
+
+### Git Preferences
 
 When commit any changes, **aways**: 
 
@@ -224,3 +228,18 @@ Example:
 ```sh
 git commit -m 'feat: new documents' --author='nikolau-bot <nikolau@bot>' 
 ```
+
+### Document indexing preferences
+
+- Use when asked to index documents files.
+- Default documents' source is `documents` folder on workspace.
+- Use `document-index-tool` to do the job.
+
+## PDF to Markdown conversion preferences
+
+- Use when:
+  - Human send PDF file (ask first if that is what he/she wants to do).
+  - Human asks to convert PDF to Markdown file.
+- Only Rennan can ask it.
+- Default documents' source is `documents` folder on workspace.
+- Use `convert-pdf-to-md-tool` to do the job.
