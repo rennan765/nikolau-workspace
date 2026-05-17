@@ -243,3 +243,12 @@ git commit -m 'feat: new documents' --author='nikolau-bot <nikolau@bot>'
 - Only Rennan can ask it.
 - Default documents' source is `documents` folder on workspace.
 - Use `convert-pdf-to-md-tool` to do the job.
+
+### URK to Markdown conversion preferences
+
+- Use when:
+  - Human send URL (ask first if that is what he/she wants to do).
+  - Human asks to convert URL's content to Markdown file.
+- Only Rennan can ask it.
+- Default documents' source is `documents` folder on workspace.
+- Use `convert-url-to-md-tool` to do the job.

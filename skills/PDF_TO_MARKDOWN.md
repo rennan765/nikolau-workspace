@@ -26,6 +26,7 @@ Adhere strictly to the following rules:
 6. **Images:** If an image is present and contains critical information, describe the image within brackets (e.g., `[Image: A bar chart showing quarterly revenue growth]`).
 7. **Cleanliness:** Remove all artifacts such as page numbers, running headers, footers, and redundant whitespace.
 8. **Footnotes & References:** Convert footnotes into Markdown superscript `[^1]` format and list the corresponding references at the bottom of the document.
+9. **Tools:** Use `pdftotext` to read PDF file. Python path in `/root/.openclaw/venv/bin/python`.
 
 Do not include any conversational filler before or after the Markdown output. Output only the converted Markdown text on a phisical file.
 ```

@@ -45,6 +45,16 @@ Call: Load `skills/PDF_TO_MARKDOWN.md` and follow instructions.
 
 When: human send new PDF file or ask to convert specific PDF file from another place, such as sme file on disk or PDF from an URL.
 
+## convert-url-to-md-tool
+
+Tool to convert URL's content to markdown files.
+
+Call: Load `skills/URL_TO_MARKDOWN.md` and follow instructions.
+
+When: human send URL and ask to save it or convert to markdown.
+
+If URL's content is a PDF file, download it and use [convert-pdf-to-md-tool](#convert-pdf-to-md-tool) to do the job.
+
 ## document-index-tool
 
 Tool used to index document's data, to be easy to agent found document when it's necessary.
