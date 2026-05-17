@@ -42,10 +42,9 @@ Format the output strictly in JSON format so it can be parsed programmatically b
 
 The Markdown file is attached on this prompt.
 
-After that:
-
-- Extract `.json` output's information.
-- Add new record on `documents/INDEX.md` base on extracted information. Use template in `knowledge_base/INDEX_TEMPLATE.md`. If item already exists, let human knows and follow instructions on `Important Rules` in `skills/DOCUMENT_INDEX.md`.
-- After indexing, delete `.json` output file.
+After that, extract `.json` output's information and save it in workspace.
 
 ```
+
+- Add new record on `documents/INDEX.md` base on extracted information. Use template in `knowledge_base/INDEX_TEMPLATE.md`. If item already exists, let human knows and follow instructions on [Important Rules](#important-rules).
+- After indexing, delete `.json` output file.
