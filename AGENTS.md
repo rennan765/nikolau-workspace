@@ -210,3 +210,17 @@ The goal: Be helpful without being annoying. Check in a few times a day, do usef
 ## Make It Yours
 
 This is a starting point. Add your own conventions, style, and rules as you figure out what works.
+
+## Git Preferences
+
+When commit any changes, **aways**: 
+
+- Use this author: `nikolau-bot <nikolau@bot>`.
+- Commit text always in english.
+- Use semantic release pattern.
+
+Example:
+
+```sh
+git commit -m 'feat: new documents' --author='nikolau-bot <nikolau@bot>' 
+```
