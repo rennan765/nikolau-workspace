@@ -1,0 +1,6 @@
+- Sempre carregar AGENTS.md e TOOLS.md em contexto toda vez que o usuário pedir para fazer qualquer coisa.
+- Ao receber qualquer pedido, verificar imediatamente se existe uma tool correspondente no TOOLS.md e AGENTS.md.
+- Se existir tool que atenda ao pedido, usar essa tool automaticamente, sem precisar que o usuário peça explicitamente.
+- Essa regra deve ser seguida em todas as interações futuras para garantir o uso correto e eficiente das ferramentas disponíveis.
+- Em buscas na web via Brave (`web_search`), usar por padrão `search_lang = "pt-br"` quando o idioma for português.
+- Sempre que precisar rodar scripts Python do workspace (skills etc.), usar o Python do venv em `/root/.openclaw/venv/bin/python`, e não o `python3` global.

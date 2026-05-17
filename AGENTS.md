@@ -235,7 +235,7 @@ git commit -m 'feat: new documents' --author='nikolau-bot <nikolau@bot>'
 - Default documents' source is `documents` folder on workspace.
 - Use `document-index-tool` to do the job.
 
-## PDF to Markdown conversion preferences
+### PDF to Markdown conversion preferences
 
 - Use when:
   - Human send PDF file (ask first if that is what he/she wants to do).
