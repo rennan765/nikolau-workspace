@@ -14,7 +14,7 @@ This skill must be used to classify a markdown document and save on `documents/I
 
 ## How to
 
-- Send to a subagent this prompt with markdown file attached:
+Send to a subagent this prompt with markdown file attached:
 
 ```md
 You are an expert document indexing agent, Roman Catholic Church's specialist and higly devoted monk.
@@ -41,30 +41,11 @@ Format the output strictly in JSON format so it can be parsed programmatically b
 }
 
 The Markdown file is attached on this prompt.
-```
+
+After that:
 
 - Extract `.json` output's information.
-- Add new record on `documents/INDEX.md` base on extracted information. Use template below:
-
-```md
-# Document's index
-
-## [Insert main title here]
-
-- File: [Input markdown's file]
-- Core keywords:
-  - `core_keywords` **extracted information**, one item per line
-- Secondary keywords:
-  - `secondary_keywords` **extracted information**, one item per line
-- Search Intents:
-  - `search_intents` **extracted information**, one item per line
-- High Relevance Entities:
-  - `high_relevance_entities` **extracted information**, one item per line
-- Search Snippet:
-  - `search_snippet` **extracted information**, one item per line
-```
-
-  If item already exists, let human knows and follow instructions on [Important Rules](#important-rules).
-
+- Add new record on `documents/INDEX.md` base on extracted information. Use template in `knowledge_base/INDEX_TEMPLATE.md`. If item already exists, let human knows and follow instructions on `Important Rules` in `skills/DOCUMENT_INDEX.md`.
 - After indexing, delete `.json` output file.
-- Ask if human wants do delete `.pdf` file. If says `yes`, delete `.pdf` file.
+
+```
