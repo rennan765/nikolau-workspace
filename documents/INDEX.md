@@ -1,155 +1,487 @@
 # Document's index
 
-## Dilexi Te
-
-- File: Dilexi-te_Leao-XIV.pdf
-- Tags:
-  - leaoXIV
-  - documento
-  - pobres
-  - caridade
-  - amor-de-cristo
-  - exortacao
-  - apostolica
-
-## Graduale Simplex
-
-- File: Graduale_Simplex.pdf
-- Tags:
-  - liturgia
-  - musica
-  - canto-gregoriano
-  - gradual
-  - concilio
-  - vaticanoII
-  - missa
-
-## Missal Romano Brasil 2023
-
-- File: Missal_Romano_Brasil_2023.pdf
-- Tags:
-  - liturgia
-  - missa
-  - brasil
-  - calendario-liturgico
-  - oracoes-eucologicas
-  - lecionario
-
-## Graduale Romanum
-
-- File: Graduale_Romanum.pdf
-- Tags:
-  - liturgia
-  - musica
-  - canto-gregoriano
-  - gradual
-  - proprium-missae
-  - solennidades
-
-## Sacrosanctum Concilium
-
-- File: Sacrosanctum-Concilium_Vaticano-II.pdf
-- Tags:
-  - concilio
-  - vaticanoII
-  - liturgia
-  - reforma-liturgica
-  - missa
-  - sacramentos
-
-## Lumen Gentium
-
-- File: Lumen-Gentium_Vaticano-II.pdf
-- Tags:
-  - concilio
-  - vaticanoII
-  - eclesiologia
-  - igreja
-  - povo-de-deus
-  - colegialidade
-
-## Spes non confundit (Jubileu 2025)
-
-- File: Spes-non-confundit_Jubileu-2025_Francisco.pdf
-- Tags:
-  - francisco
-  - jubileu
-  - ano-santo-2025
-  - esperanca
-  - peregrinacao
-
-## Mane nobiscum Domine
-
-- File: Mane-nobiscum-Domine_Joao-Paulo-II.pdf
-- Tags:
-  - joao-pauloII
-  - eucaristia
-  - ano-da-eucaristia
-  - adoracao
-
-## Sacramentum caritatis
-
-- File: Sacramentum-caritatis_Bento-XVI.pdf
-- Tags:
-  - bentoXVI
-  - eucaristia
-  - sacramento
-  - liturgia
-  - teologia
-
 ## Tra le sollecitudini
 
-- File: Tra-le-sollecitudini_Pio-X.pdf
-- Tags:
-  - pioX
-  - musica-sacra
-  - canto-gregoriano
-  - motu-proprio
+- File: Tra-le-sollecitudini_Pio-X.md
+- Core keywords:
+  - música sacra
+  - canto gregoriano
+  - liturgia romana
+  - polifonia clássica
+  - Motu Proprio Tra le sollecitudini
+- Secondary keywords:
+  - decoro do templo
+  - santidade da liturgia
+  - texto litúrgico em latim
+  - Schola Cantorum
+  - órgão na igreja
+  - instrumentos musicais no culto
+  - coro dos levitas
+  - música de estilo teatral
+  - participação ativa dos fiéis
+  - comissão de música sacra diocesana
+- Search Intents:
+  - Quais são as normas de Pio X para a música sacra na missa?
+  - O que o Motu Proprio Tra le sollecitudini ensina sobre canto gregoriano?
+  - Quais instrumentos musicais são permitidos na liturgia segundo Pio X?
+  - Como deve ser organizado o coro e a Schola Cantorum na igreja?
+  - Qual é o papel da música moderna e teatral na liturgia conforme Tra le sollecitudini?
+- High Relevance Entities:
+  - Pio X
+  - Tra le sollecitudini
+  - Motu Proprio
+  - Santa Sé
+  - Igreja Romana
+  - canto gregoriano
+  - polifonia clássica
+  - Pedro Luís de Palestrina
+  - Schola Cantorum
+  - Caeremoniale Episcoporum
+  - Santa Cecília
+- Search Snippet:
+  - Instrução de Pio X que define princípios, gêneros e normas práticas para a música sacra e o canto gregoriano na liturgia romana.
+
+## Sacrosanctum Concilium (Markdown)
+
+- File: Sacrosanctum-Concilium_Vaticano-II.md
+- Core keywords:
   - liturgia
+  - reforma litúrgica
+  - Concílio Vaticano II
+  - participação ativa
+  - sacramentos
+- Secondary keywords:
+  - Missa
+  - ofício divino
+  - língua latina
+  - uso da língua vernácula
+  - música sacra
+  - ano litúrgico
+  - sacramentais
+  - piedade popular
+  - renovação dos ritos
+  - constituição conciliar
+- Search Intents:
+  - O que ensina a Sacrosanctum Concilium sobre a reforma da liturgia?
+  - Quais são os princípios do Concílio Vaticano II para a Missa?
+  - O que significa participação ativa na liturgia segundo a Sacrosanctum Concilium?
+  - Como a constituição trata da língua latina e vernácula na liturgia?
+  - Quais orientações dá sobre música sacra e ofício divino?
+- High Relevance Entities:
+  - Concílio Vaticano II
+  - Sacrosanctum Concilium
+  - Igreja
+  - Missa
+  - ofício divino
+  - ano litúrgico
+  - sacramentos
+  - sacramentais
+- Search Snippet:
+  - Constituição conciliar que estabelece os princípios teológicos e práticos da reforma litúrgica e da participação ativa do povo de Deus.
 
-## Musicae sacrae disciplina
+## IGMR (Sinopse)
 
-- File: Musicae-sacrae-disciplina_Pio-XII.pdf
-- Tags:
-  - pioXII
-  - musica-sacra
-  - liturgia
-  - enciclica
+- File: IGMR_Sinopse.md
+- Core keywords:
+  - Instrução Geral do Missal Romano
+  - Missa
+  - liturgia eucarística
+  - Concílio Vaticano II
+  - Missal Romano
+- Secondary keywords:
+  - sacrifício eucarístico
+  - presença real de Cristo
+  - sacerdócio ministerial
+  - sacerdócio real dos fiéis
+  - lex orandi lex credendi
+  - idioma vernáculo na liturgia
+  - comunhão sob as duas espécies
+  - participação ativa dos fiéis
+  - Conselho para a execução da Constituição da Sagrada Liturgia
+  - adaptações litúrgicas
+- Search Intents:
+  - O que é a Instrução Geral do Missal Romano e como evoluíram as suas edições típicas?
+  - Qual a importância teológica e pastoral da Missa segundo a IGMR?
+  - Como a IGMR aplica as orientações do Concílio Vaticano II à celebração eucarística?
+  - Quais as diferenças principais entre as três edições típicas latinas da IGMR em português?
+  - Como a IGMR explica a participação ativa dos fiéis e o uso da língua vernácula na Missa?
+- High Relevance Entities:
+  - Institutio Generalis Missalis Romani
+  - IGMR
+  - Missale Romanum
+  - Concílio Vaticano II
+  - Concílio de Trento
+  - S. Pio V
+  - Paulo VI
+  - Sacrosanctum Concilium
+  - Mysterium fidei
+  - Eucharisticum mysterium
+  - Secretariado Nacional de Liturgia
+  - Ora et Labora
+  - Notitiae
+  - Quo primum
+  - Sacramentário Gregoriano
+- Search Snippet:
+  - Sinopse comparativa das três edições da IGMR em português, explicando princípios doutrinais e normas da celebração da Missa no rito romano.
 
-## Musicam sacram
+## Dilexi te
 
-- File: Musicam-sacram_1967.pdf
-- Tags:
-  - musica-sacra
-  - liturgia
-  - concilio
-  - vaticanoII
-  - instrucao
+- File: Dilexi-te_Leao-XIV.md
+- Core keywords:
+  - amor pelos pobres
+  - opção preferencial pelos pobres
+  - pobreza e dignidade humana
+  - justiça social
+  - coração de Jesus
+  - misericórdia de Deus
+  - compromisso cristão com os pobres
+- Secondary keywords:
+  - Apocalipse 3,9
+  - Magnificat
+  - Dilexit nos
+  - Papa Francisco
+  - São Francisco de Assis
+  - clamor dos pobres
+  - pobreza estrutural
+  - mulheres e pobreza
+  - preconceitos ideológicos
+  - desigualdades sociais
+  - cultura do descarte
+  - opção preferencial de Deus pelos pobres
+- Search Intents:
+  - reflexão magisterial recente sobre amor pelos pobres
+  - estudo da opção preferencial pelos pobres em continuidade com o Vaticano II e Francisco
+  - texto para formação social católica sobre pobreza e justiça
+  - materiais para pregações e retiros sobre pobres, misericórdia e conversão
+  - fundamentação teológica para pastoral social e obras de caridade
+- High Relevance Entities:
+  - Jesus Cristo
+  - Papa Francisco
+  - Leão XIV
+  - São Francisco de Assis
+  - São Paulo VI
+  - Povo de Deus
+  - Nações Unidas
+  - Livro do Êxodo
+  - Profetas Amós e Isaías
+  - Concílio Vaticano II
+- Search Snippet:
+  - Exortação apostólica que aprofunda a opção preferencial pelos pobres, unindo amor de Cristo, justiça social e santificação na vida da Igreja.
 
-## Quirógrafo sobre "Tra le sollecitudini"
+## Lumen Gentium (Markdown)
 
-- File: Quirografo-Tra-le-sollecitudini_Joao-Paulo-II.pdf
-- Tags:
-  - joao-pauloII
-  - musica-sacra
-  - tra-le-sollecitudini
-  - centenario
+- File: Lumen-Gentium_Vaticano-II.md
+- Core keywords:
+  - eclesiologia do Vaticano II
+  - mistério da Igreja
+  - Povo de Deus
+  - Corpo de Cristo
+  - sacramentalidade da Igreja
+  - hierarquia e leigos
+  - santidade universal
+  - Maria na Igreja
+- Secondary keywords:
+  - vontade salvífica universal de Deus
+  - Reino de Deus
+  - Espírito Santo na Igreja
+  - colegialidade episcopal
+  - Igreja particular e Igreja universal
+  - vocação dos leigos
+  - vida religiosa
+  - Igreja peregrina e escatológica
+  - comunhão dos santos
+  - Nossa Senhora, tipo da Igreja
+- Search Intents:
+  - estudo sistemático da doutrina da Igreja segundo o Concílio Vaticano II
+  - pesquisa sobre Povo de Deus, hierarquia e missão dos leigos
+  - fundamento eclesiológico para catequese e formação teológica
+  - referência magisterial sobre natureza sacramental da Igreja
+  - textos oficiais sobre Maria no mistério de Cristo e da Igreja
+- High Relevance Entities:
+  - Concílio Vaticano II
+  - Papa Paulo VI
+  - Jesus Cristo
+  - Deus Pai
+  - Espírito Santo
+  - Povo de Deus
+  - Bispos
+  - leigos
+  - vida consagrada
+  - Maria Santíssima
+- Search Snippet:
+  - Constituição dogmática central do Concílio Vaticano II que expõe o mistério da Igreja como sacramento de salvação, Povo de Deus e Corpo de Cristo.
 
-## Dilexi te (Leão XIV / Francisco)
+## Mane Nobiscum Domine
 
-- File: Dilexi-te_Leao-XIV.pdf
-- Tags:
-  - leaoXIV
-  - francisco
-  - pobres
-  - caridade
-  - documento
+- File: Mane-nobiscum-Domine_Joao-Paulo-II.md
+- Core keywords:
+  - Ano da Eucaristia
+  - presença real de Cristo
+  - Eucaristia e missão
+  - adoração eucarística
+  - comunhão eclesial
+  - domingo e Missa dominical
+  - espiritualidade eucarística
+- Secondary keywords:
+  - discípulos de Emaús
+  - Ecclesia de Eucharistia
+  - Dies Domini
+  - Rosarium Virginis Mariae
+  - Jornada Mundial da Juventude
+  - Eucaristia e solidariedade
+  - culto fora da Missa
+  - artes e música na liturgia
+  - Maria mulher eucarística
+- Search Intents:
+  - documento magisterial sobre a Eucaristia de João Paulo II
+  - material para retiros e formações sobre Missa e adoração
+  - fundamentação teológica do Ano da Eucaristia (2004-2005)
+  - uso pastoral do ícone de Emaús para catequese
+  - reflexão sobre Eucaristia, domingo e missão dos leigos
+- High Relevance Entities:
+  - São João Paulo II
+  - Jesus Cristo
+  - discípulos de Emaús
+  - Concílio Vaticano II
+  - Ecclesia de Eucharistia
+  - Dies Domini
+  - Rosarium Virginis Mariae
+  - Missal Romano
+  - Maria Santíssima
+- Search Snippet:
+  - Carta apostólica para o Ano da Eucaristia, centrada em Emaús, que aprofunda o mistério da presença real de Cristo e chama a Igreja a recentrar a vida cristã na Missa dominical, na adoração e na caridade.
+
+## Musicae Sacrae Disciplina
+
+- File: Musicae-sacrae-disciplina_Pio-XII.md
+- Core keywords:
+  - música sacra
+  - canto gregoriano
+  - canto polifónico
+  - liturgia e arte
+  - finalidade da música litúrgica
+  - canto popular religioso
+  - apostolado pela música
+- Secondary keywords:
+  - história da música na Bíblia
+  - música na Igreja primitiva
+  - órgão e outros instrumentos
+  - arte religiosa e moral cristã
+  - arte pela arte
+  - música litúrgica e extralitúrgica
+  - música em países de missão
+  - formação de músicos sacros
+  - normas para compositores e maestros
+- Search Intents:
+  - normas magisteriais pré-conciliares sobre música sacra
+  - história e teologia da música na liturgia católica
+  - critérios para uso de instrumentos e canto gregoriano
+  - orientações de Pio XII sobre arte e música religiosa
+  - fundamentação para coros e ministérios de música em paróquias
+- High Relevance Entities:
+  - Papa Pio XII
+  - São Pio X
+  - Concílio de Trento
+  - Santo Agostinho
+  - São Gregório Magno
+  - São Paulo VI
+  - Motu Proprio Tra le sollecitudini
+  - canto gregoriano
+  - música polifónica
+  - órgão de tubos
+- Search Snippet:
+  - Encíclica de Pio XII que sintetiza a doutrina sobre música sacra, destacando canto gregoriano e polifonia e estabelecendo critérios artísticos, morais e pastorais para a música litúrgica.
+
+## Musicam Sacram
+
+- File: Musicam-sacram_1967.md
+- Core keywords:
+  - instrução sobre música na liturgia
+  - reforma litúrgica do Vaticano II
+  - participação activa no canto
+  - canto gregoriano pós-conciliar
+  - música sacra em vernáculo
+  - graus de celebração cantada
+  - coro e assembleia
+- Secondary keywords:
+  - Sacrosanctum Concilium
+  - Missa in cantu
+  - Ordinário e Próprio da Missa
+  - Ofício Divino cantado
+  - instrumentos musicais na liturgia
+  - música em sacramentos e sacramentais
+  - comissões diocesanas de música sacra
+  - adaptação musical missionária
+  - composição de melodias para textos vernáculos
+- Search Intents:
+  - normas oficiais pós-conciliares sobre música litúrgica
+  - orientações sobre participação da assembleia no canto
+  - critérios para uso de músicas vernáculas na Missa
+  - estruturar celebrações cantadas segundo Musicam Sacram
+  - formação de coros, organistas e comissões de música sacra
+- High Relevance Entities:
+  - Concílio Vaticano II
+  - Sacrosanctum Concilium
+  - Papa Paulo VI
+  - Sagrada Congregação dos Ritos
+  - Motu Proprio Tra le sollecitudini
+  - canto gregoriano
+  - Liturgia das Horas
+  - Conferências Episcopais
+- Search Snippet:
+  - Instrução de 1967 que aplica Sacrosanctum Concilium à música litúrgica, definindo graus de celebração cantada, o lugar do canto gregoriano e do vernáculo, e a participação do povo.
+
+## Quirógrafo Tra le Sollecitudini
+
+- File: Quirografo-Tra-le-sollecitudini_Joao-Paulo-II.md
+- Core keywords:
+  - música sacra após o Concílio
+  - interpretação de Tra le Sollecitudini
+  - santidade da música litúrgica
+  - canto gregoriano como modelo
+  - espiritualidade e arte
+  - formação em música sacra
+  - discernimento musical na liturgia
+- Secondary keywords:
+  - São Pio X
+  - Sacrosanctum Concilium
+  - Musicam Sacram
+  - Paulo VI
+  - Maria mulher eucarística
+  - escolas de música sacra
+  - schola cantorum
+  - inculturação musical
+  - privilégio do órgão de tubos
+- Search Intents:
+  - leitura contemporânea do Motu Proprio de Pio X sobre música sacra
+  - orientações de João Paulo II sobre música na liturgia
+  - critérios de santidade, arte e universalidade da música litúrgica
+  - uso pastoral do gregoriano e da polifonia hoje
+  - formação de cantores, compositores e responsáveis de liturgia
+- High Relevance Entities:
+  - São João Paulo II
+  - São Pio X
+  - Paulo VI
+  - Concílio Vaticano II
+  - Sacrosanctum Concilium
+  - Musicam Sacram
+  - Tra le Sollecitudini
+  - schola cantorum
+- Search Snippet:
+  - Quirógrafo de João Paulo II nos 100 anos de Tra le Sollecitudini, reafirmando o canto gregoriano e a polifonia como modelos e pedindo forte formação e discernimento musical nas celebrações.
+
+## Sacramentum Caritatis
+
+- File: Sacramentum-caritatis_Bento-XVI.md
+- Core keywords:
+  - Eucaristia
+  - fonte e ápice da vida da Igreja
+  - Missa eucarística
+  - adoração eucarística
+  - espiritualidade eucarística
+  - liturgia eucarística
+  - Eucaristia e missão
+- Secondary keywords:
+  - Sínodo dos Bispos sobre a Eucaristia
+  - lex orandi lex credendi
+  - participação activa na Missa
+  - arte e música ao serviço da liturgia
+  - domingo como dia do Senhor
+  - Eucaristia e vida moral
+  - dimensão social da Eucaristia
+  - Eucaristia e matrimónio
+  - Maria mulher eucarística
+- Search Intents:
+  - exortação pós-sinodal de Bento XVI sobre a Eucaristia
+  - referência magisterial para catequese e formação litúrgica
+  - orientações sobre celebração, ars celebrandi e adoração
+  - reflexão sobre Eucaristia, vida cristã e compromisso social
+  - texto para estudo teológico da Eucaristia hoje
+- High Relevance Entities:
+  - Papa Bento XVI
+  - Jesus Cristo
+  - Sínodo dos Bispos
+  - Concílio Vaticano II
+  - Sacrosanctum Concilium
+  - Lumen Gentium
+  - Povo de Deus
+  - Maria Santíssima
+- Search Snippet:
+  - Exortação apostólica pós-sinodal que apresenta a Eucaristia como mistério acreditado, celebrado e vivido, articulando fé, liturgia, vida moral e missão.
+
+## Spes non confundit
+
+- File: Spes-non-confundit_Jubileu-2025_Francisco.md
+- Core keywords:
+  - Jubileu 2025
+  - esperança cristã
+  - peregrinação jubilar
+  - reconciliação e penitência
+  - indulgência jubilar
+  - justiça e misericórdia
+- Secondary keywords:
+  - Carta aos Romanos 5,5
+  - peregrinos da esperança
+  - portas santas
+  - Igreja perseguida e sofredora
+  - atenção aos pobres e migrantes
+  - ecumenismo e diálogo inter-religioso
+  - cuidado da criação
+  - guerra e paz
+  - missão da Igreja no mundo contemporâneo
+- Search Intents:
+  - bula de proclamação do Jubileu Ordinário 2025
+  - espiritualidade e propostas pastorais para o Ano Jubilar
+  - reflexão sobre esperança cristã em contexto de crises globais
+  - orientações sobre indulgência, peregrinações e obras jubilares
+  - material para preparar comunidades e dioceses para o Jubileu
+- High Relevance Entities:
+  - Papa Francisco
+  - Carta aos Romanos
+  - Cidade de Roma
+  - Igrejas particulares
+  - peregrinos
+  - jovens e idosos
+  - pobres e migrantes
+  - Terra Santa
+  - Igreja perseguida
+- Search Snippet:
+  - Bula de Francisco para o Jubileu 2025, centrada no tema da esperança, que oferece uma leitura cristã das crises atuais e traça um caminho espiritual, pastoral e social para viver o Ano Santo como tempo de reconciliação, justiça e misericórdia.
 
 ## Codex Iuris Canonici (português)
 
-- File: codex-iuris-canonici_po.pdf
-- Tags:
-  - direito-canonico
-  - codigo
-  - disciplina
-  - igreja
+- File: codex-iuris-canonici_po.md
+- Core keywords:
+  - Código de Direito Canónico
+  - disciplina da Igreja latina
+  - estrutura jurídica da Igreja
+  - ministérios ordenados
+  - vida consagrada
+  - direitos e deveres dos fiéis
+- Secondary keywords:
+  - Livro I: normas gerais
+  - Livro II: Povo de Deus
+  - Livro III: função de ensinar
+  - Livro IV: função de santificar
+  - Livro V: bens temporais
+  - Livro VI: sanções na Igreja
+  - Livro VII: processos
+  - bispos e presbíteros
+  - paróquias e dioceses
+- Search Intents:
+  - consulta ao texto completo do Código de Direito Canónico em português
+  - estudo sistemático da estrutura jurídica da Igreja latina
+  - referência para questões disciplinares, pastorais e processuais
+  - apoio para formação em direito canónico e prática pastoral
+  - recurso para preparação de normas diocesanas e estatutos
+- High Relevance Entities:
+  - Codex Iuris Canonici
+  - Igreja Latina
+  - Conferência Episcopal
+  - bispos
+  - presbíteros
+  - fiéis leigos
+  - tribunais eclesiásticos
+  - cúria diocesana
+- Search Snippet:
+  - Versão em português do Código de Direito Canónico, que reúne de forma sistemática as normas jurídicas fundamentais da Igreja Latina sobre fé, sacramentos, governo, bens e sanções.

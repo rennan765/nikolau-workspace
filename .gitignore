@@ -1,9 +1,11 @@
 *.sh
 *.pdf
 *.txt
+*.json
 documents/*.pdf
 documents/*.md
 documents/*.txt
+documents/*.json
 
 skills/venv/
 skills/__pycache__/
