@@ -485,3 +485,133 @@
   - cúria diocesana
 - Search Snippet:
   - Versão em português do Código de Direito Canónico, que reúne de forma sistemática as normas jurídicas fundamentais da Igreja Latina sobre fé, sacramentos, governo, bens e sanções.
+
+## Graduale Simplex
+
+- File: Graduale_Simplex.md
+- Core keywords:
+  - Graduale Simplex
+  - canto gregoriano
+  - Missa romana
+  - participação ativa dos fiéis
+  - Ordinário e Próprio da Missa
+- Secondary keywords:
+  - Graduale Romanum
+  - Kyriale simplex
+  - Ordo Cantus Missæ
+  - Concílio Vaticano II
+  - salmo responsorial
+  - tractus
+  - Alleluia
+  - Proprium de Tempore
+  - Communia Sanctorum
+  - schola cantorum
+- Search Intents:
+  - O que é o Graduale Simplex e para que tipo de missa ele foi criado?
+  - Diferença entre Graduale Simplex e Graduale Romanum no canto gregoriano
+  - Como usar o Graduale Simplex nas igrejas menores para o canto da Missa?
+  - Quais são os critérios de seleção de melodias no Graduale Simplex?
+  - Como estão organizados os cantos do Kyriale simplex e dos salmos responsoriais?
+- High Relevance Entities:
+  - Graduale Simplex
+  - Graduale Romanum
+  - Kyriale simplex
+  - Ordo Cantus Missæ
+  - Constituição sobre a Sagrada Liturgia
+  - Concílio Vaticano II
+  - Sacra Congregatio pro Cultu Divino
+  - Paulo VI
+  - Iacobus Robertus Card. Knox
+  - A. Bugnini
+  - Proprium de Tempore
+  - Proprium Sanctorum
+  - Communia Sanctorum
+  - schola cantorum
+  - Gloria in excelsis
+  - Agnus Dei
+  - introitus
+  - offertorium
+  - communio
+- Search Snippet:
+  - Introdução normativa e pastoral à edição típica do Graduale Simplex, explicando origem, critérios e uso litúrgico do canto gregoriano simplificado.
+
+## Humanae Vitae
+
+- File: Humanae-Vitae_Paulo-VI.md
+- Core keywords:
+  - regulação da natalidade
+  - moral conjugal
+  - paternidade responsável
+  - ato conjugal
+  - união e procriação
+- Secondary keywords:
+  - lei natural
+  - lei moral
+  - métodos artificiais de contracepção
+  - ritmos naturais de fecundidade
+  - aborto
+  - esterilização
+  - métodos terapêuticos
+  - demografia
+  - castidade conjugal
+  - responsabilidade dos governantes
+- Search Intents:
+  - qual é o ensinamento da Igreja sobre contracepção na Humanae Vitae?
+  - como a Humanae Vitae define paternidade responsável e regulação dos nascimentos?
+  - quais métodos de controle de natalidade a Humanae Vitae considera lícitos ou ilícitos?
+  - como esta encíclica orienta médicos, sacerdotes e esposos sobre moral conjugal?
+  - qual é a visão da Humanae Vitae sobre as consequências sociais da contracepção artificial?
+- High Relevance Entities:
+  - Papa Paulo VI
+  - João XXIII
+  - Pio XI
+  - Pio XII
+  - Jesus Cristo
+  - Constituição Gaudium et Spes
+  - Casti Connubii
+  - Populorum Progressio
+  - Magistério da Igreja
+  - Comissão de Estudo sobre natalidade
+  - poderes públicos
+  - médicos
+  - sacerdotes
+  - esposos cristãos
+- Search Snippet:
+  - Encíclica de Paulo VI sobre a regulação da natalidade, que expõe a doutrina da Igreja sobre moral conjugal, paternidade responsável e uso lícito dos ritmos naturais, rejeitando métodos artificiais de contracepção.
+
+## Rerum Novarum
+
+- File: Rerum-Novarum_Leao-XIII.md
+- Core keywords:
+  - doutrina social da Igreja
+  - questão operária
+  - condição dos operários
+  - propriedade privada
+  - socialismo
+- Secondary keywords:
+  - capital e trabalho
+  - usura
+  - sindicatos e corporações
+  - deveres de patrões e operários
+  - função do Estado
+  - família e sociedade
+  - salário justo
+  - caridade cristã
+  - papel da Igreja na questão social
+- Search Intents:
+  - qual é o ensinamento da Rerum Novarum sobre a questão operária e a propriedade privada?
+  - como Leão XIII critica o socialismo e defende os direitos dos operários?
+  - que deveres recíprocos a encíclica atribui a patrões e trabalhadores?
+  - como a Rerum Novarum descreve o papel do Estado e da Igreja na ordem social?
+  - qual é a importância desta encíclica para a doutrina social da Igreja?
+- High Relevance Entities:
+  - Papa Leão XIII
+  - operários e proletariado
+  - patrões e capitalistas
+  - socialistas
+  - família
+  - Estado
+  - Igreja Católica
+  - encíclicas precedentes de Leão XIII
+- Search Snippet:
+  - Encíclica fundacional da doutrina social da Igreja que aborda a questão operária, defende a propriedade privada e propõe princípios de justiça, deveres mútuos e caridade entre capital e trabalho.
