@@ -615,3 +615,42 @@
   - encíclicas precedentes de Leão XIII
 - Search Snippet:
   - Encíclica fundacional da doutrina social da Igreja que aborda a questão operária, defende a propriedade privada e propõe princípios de justiça, deveres mútuos e caridade entre capital e trabalho.
+
+## Desiderio desideravi
+
+- File: Desiderio-desideravi_Francisco.md
+- Core keywords:
+  - formação litúrgica
+  - liturgia
+  - participação ativa
+  - beleza do celebrar cristão
+  - reforma litúrgica
+- Secondary keywords:
+  - Eucaristia
+  - Tríduo Pascal
+  - Sacrosanctum Concilium
+  - Concílio Vaticano II
+  - gnosticismo
+  - neopelagianismo
+  - mundanidade espiritual
+  - assombro pelo mistério pascal
+  - símbolos litúrgicos
+  - formação de ministros e fiéis
+- Search Intents:
+  - o que ensina a carta Desiderio desideravi sobre a liturgia e a sua reforma?
+  - como o Papa Francisco descreve a participação plena, consciente e ativa na celebração?
+  - que perigos de mundanidade espiritual a carta denuncia na vida litúrgica?
+  - quais são as linhas mestras para a formação litúrgica de padres e leigos?
+  - como a carta relaciona liturgia, teologia e vida da Igreja?
+- High Relevance Entities:
+  - Papa Francisco
+  - Jesus Cristo
+  - Concílio Vaticano II
+  - Sacrosanctum Concilium
+  - Lumen Gentium
+  - Evangelii Gaudium
+  - Tradi tionis custodes
+  - Guardini
+  - Irineu de Lyon
+- Search Snippet:
+  - Carta apostólica de Francisco sobre a formação litúrgica do povo de Deus, que aprofunda o sentido teológico da liturgia, denuncia a mundanidade espiritual e chama à redescoberta do assombro pelo mistério pascal celebrado.
