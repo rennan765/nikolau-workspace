@@ -649,8 +649,124 @@
   - Sacrosanctum Concilium
   - Lumen Gentium
   - Evangelii Gaudium
-  - Tradi tionis custodes
+  - Traditionis custodes
   - Guardini
   - Irineu de Lyon
 - Search Snippet:
   - Carta apostólica de Francisco sobre a formação litúrgica do povo de Deus, que aprofunda o sentido teológico da liturgia, denuncia a mundanidade espiritual e chama à redescoberta do assombro pelo mistério pascal celebrado.
+
+## Mater et Magistra
+
+- File: Mater-et-Magistra_Joao-XXIII.md
+- Core keywords:
+  - doutrina social da Igreja
+  - questão social contemporânea
+  - desenvolvimento econômico e social
+  - subsidiariedade
+  - socialização
+- Secondary keywords:
+  - Rerum Novarum
+  - Quadragesimo Anno
+  - Pio XI
+  - Pio XII
+  - direitos dos trabalhadores
+  - papel do Estado na economia
+  - justiça social
+  - salário justo
+  - bem comum
+  - ordem internacional
+- Search Intents:
+  - como a Mater et Magistra atualiza a doutrina social da Igreja depois da Rerum Novarum?
+  - que orientações João XXIII dá sobre desenvolvimento econômico e justiça social?
+  - qual é o papel do Estado segundo a Mater et Magistra na economia moderna?
+  - como a encíclica trata da socialização e do princípio de subsidiariedade?
+  - que luz oferece para os novos problemas sociais do século XX?
+- High Relevance Entities:
+  - Papa João XXIII
+  - Leão XIII
+  - Pio XI
+  - Pio XII
+  - Rerum Novarum
+  - Quadragesimo Anno
+  - princípios de subsidiariedade e solidariedade
+  - Estados e organismos internacionais
+- Search Snippet:
+  - Encíclica social de João XXIII que, à luz da doutrina cristã, atualiza e amplia a Rerum Novarum, tratando da evolução da questão social, do papel do Estado, da socialização e do desenvolvimento econômico e internacional.
+
+## Antiqua et Nova – Nota sobre a inteligência artificial
+
+- File: Antiqua-et-Nova_AI.md
+- Core keywords:
+  - inteligência artificial
+  - inteligência humana
+  - antropologia cristã
+  - dignidade humana
+  - ética da tecnologia
+  - bem comum
+  - responsabilidade moral
+- Secondary keywords:
+  - machine learning
+  - inteligência artificial geral (AGI)
+  - superinteligência
+  - tecnocracia
+  - desinformação
+  - deepfakes
+  - liberdade e decisão humana
+  - direitos humanos e neurodireitos
+  - educação e IA
+  - trabalho e automação
+  - saúde e IA
+- Search Intents:
+  - qual é o ensinamento da Igreja sobre inteligência artificial neste documento recente?
+  - como o Vaticano distingue inteligência artificial de inteligência humana?
+  - quais critérios éticos a nota propõe para o desenvolvimento e uso da IA?
+  - como a IA deve ser usada em áreas como educação, trabalho, economia e saúde?
+  - quais são os riscos de desinformação, deepfakes e tecnocracia criticados pelo texto?
+- High Relevance Entities:
+  - Dicastério para a Doutrina da Fé
+  - Dicastério para a Cultura e a Educação
+  - Papa Francisco
+  - Concílio Vaticano II
+  - tradição filosófica e teológica cristã
+  - pessoa humana
+  - direitos humanos
+- Search Snippet:
+  - Nota doutrinal recente da Santa Sé sobre a relação entre inteligência artificial e inteligência humana, oferecendo uma visão antropológica cristã e critérios éticos para que a IA sirva a dignidade da pessoa e o bem comum, evitando o tecnocratismo e os abusos.
+
+## Divini Cultus sanctitatem
+
+- File: Divini-cultus-sanctitatem_Pio-XI.md
+- Core keywords:
+  - liturgia romana
+  - música sacra
+  - canto gregoriano
+  - ofício divino
+  - reforma da música sacra
+  - formação litúrgica do clero
+- Secondary keywords:
+  - Pio XI
+  - Pio X
+  - Motu Proprio Tra le Sollecitudini
+  - schola cantorum
+  - coro de meninos
+  - capelas musicais
+  - órgão como instrumento próprio da liturgia
+  - participação ativa dos fiéis no canto
+  - seminários e casas religiosas
+  - Guidão de Arezzo
+- Search Intents:
+  - que orientações Pio XI deu para promover liturgia e música sacra após Pio X?
+  - quais são as principais disposições da Divini cultus sanctitatem sobre canto gregoriano e ofício divino?
+  - como a constituição apostólica trata da formação musical de seminaristas e religiosos?
+  - qual é o papel do órgão e da schola cantorum na liturgia segundo Pio XI?
+  - como este documento se insere na história da reforma da música sacra antes do Vaticano II?
+- High Relevance Entities:
+  - Papa Pio XI
+  - Papa Pio X
+  - Tra le Sollecitudini
+  - Igreja de Roma
+  - capitulares e cabidos catedrais
+  - schola cantorum
+  - órgão de tubos
+- Search Snippet:
+  - Constituição apostólica de Pio XI (1928) que, na linha de Pio X, reafirma a santidade da liturgia e da música sacra, promovendo o canto gregoriano, o ofício divino solene, a formação musical do clero e a correta ordenação das capelas e coros nas igrejas.
