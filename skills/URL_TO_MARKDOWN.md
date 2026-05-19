@@ -6,7 +6,7 @@ This skill must be used to convert a PDF file to a markdow file.
 
 - Conversion must be on a physical markdown file. Its name must be the same name of the web page's title, with underscores instead spaces.
 - Conversion should run on a subagent, to separate context and accurate results.
-- The path of input pdf file must me the same path for output markdown file.
+- The path of input URL must me the the title of the page.
 - If there is an error or misunderstandig on conversion flow, let human know.
 
 ## How to

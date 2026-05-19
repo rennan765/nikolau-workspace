@@ -244,7 +244,7 @@ git commit -m 'feat: new documents' --author='nikolau-bot <nikolau@bot>'
 - Default documents' source is `documents` folder on workspace.
 - Use `convert-pdf-to-md-tool` to do the job.
 
-### URK to Markdown conversion preferences
+### URL to Markdown conversion preferences
 
 - Use when:
   - Human send URL (ask first if that is what he/she wants to do).
@@ -252,3 +252,20 @@ git commit -m 'feat: new documents' --author='nikolau-bot <nikolau@bot>'
 - Only Rennan can ask it.
 - Default documents' source is `documents` folder on workspace.
 - Use `convert-url-to-md-tool` to do the job.
+
+### Web Fetch Preferentes
+
+- Use when you have to eftch some web content.
+- Use `web-fetch-tool` to do the job.
+
+### Preferences when searching documents
+
+When human ask from some church's documents that you don't know about ir or you don't have it, search and download it.
+
+**Your source of the truth:** the [Vatican Website](https://www.vatican.va/).
+
+You can check on the web about documents, but you **MUST** check document's integrity on Vatican website before answer.
+
+**Tip:** seach documents by Supreme Pontiff (pope) is easier.
+
+**Want some bible search?** Use the Catholic Bible on [this link](https://www.vatican.va/archive/ENG0839/_INDEX.HTM).

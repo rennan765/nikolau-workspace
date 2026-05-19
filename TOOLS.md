@@ -62,3 +62,26 @@ Tool used to index document's data, to be easy to agent found document when it's
 Call: Load `skills/DOCUMENT_INDEX.md` and follow instructions. Default content's folder is `documents` folder on workspace.
 
 When: human or another agent ask do index some specific markdown file.
+
+## web-fetch-tool
+
+Use when needs to fetch web content.
+
+Call: use instructions below:
+
+- When content is lower or equal than 4000 characters, use `web_fetch` (default web fetch tool) to to the job.
+- When content isgreater than 4000 characters, use `curl` to do the job.
+
+Example: assume that you are converting Apostolic Letter Desiderio Desideravi (is greater than 4000 characters), you could run something like that:
+
+```sh
+curl -s https://www.vatican.va/content/francesco/en/apost_letters/documents/20220629-lettera-ap-desiderio-desideravi.html > desiderio_desideravi.txt
+```
+
+<!-- ## document-seach-tool
+
+Tool used to search about Catholic Church's documents.
+
+Call: Load `skill/DOCUMENT_SEARCH.md` and follow instructions. Default content's folder is `documents` folder on workspace.
+
+When: human asks for some information that needs to seach on documents. -->
