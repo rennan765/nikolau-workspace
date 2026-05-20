@@ -78,10 +78,10 @@ Example: assume that you are converting Apostolic Letter Desiderio Desideravi (i
 curl -s https://www.vatican.va/content/francesco/en/apost_letters/documents/20220629-lettera-ap-desiderio-desideravi.html > desiderio_desideravi.txt
 ```
 
-<!-- ## document-seach-tool
+## document-seach-tool
 
 Tool used to search about Catholic Church's documents.
 
 Call: Load `skill/DOCUMENT_SEARCH.md` and follow instructions. Default content's folder is `documents` folder on workspace.
 
-When: human asks for some information that needs to seach on documents. -->
+When: human asks for some information that needs to seach on documents.

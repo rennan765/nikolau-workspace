@@ -6,6 +6,7 @@ documents/*.pdf
 documents/*.md
 documents/*.txt
 documents/*.json
+documents/bible-nabre-json-dataset/*.*
 
 skills/venv/
 skills/__pycache__/

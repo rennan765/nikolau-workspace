@@ -260,7 +260,9 @@ git commit -m 'feat: new documents' --author='nikolau-bot <nikolau@bot>'
 
 ### Preferences when searching documents
 
-When human ask from some church's documents that you don't know about ir or you don't have it, search and download it.
+When human ask from some church's documents that you don't know about or you don't have it, search and download it.
+
+**Your primary search tool:** use `document-seach-tool`. **Always**
 
 **Your source of the truth:** the [Vatican Website](https://www.vatican.va/).
 
@@ -268,4 +270,4 @@ You can check on the web about documents, but you **MUST** check document's inte
 
 **Tip:** seach documents by Supreme Pontiff (pope) is easier.
 
-**Want some bible search?** Use the Catholic Bible on [this link](https://www.vatican.va/archive/ENG0839/_INDEX.HTM).
+**Want some Bible search?** Use the `document-seach-tool`, there is a documented Bible way of search.
