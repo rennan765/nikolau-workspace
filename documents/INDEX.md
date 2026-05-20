@@ -693,6 +693,39 @@
 - Search Snippet:
   - Encíclica social de João XXIII que, à luz da doutrina cristã, atualiza e amplia a Rerum Novarum, tratando da evolução da questão social, do papel do Estado, da socialização e do desenvolvimento econômico e internacional.
 
+## Bíblia Sagrada (tradução católica)
+
+- File: /root/.openclaw/workspace-nikolau/documents/bible-nabre-json-dataset/
+- Core keywords:
+  - Sagrada Escritura
+  - Antigo Testamento
+  - Novo Testamento
+  - revelação
+  - história da salvação
+- Secondary keywords:
+  - inspiração bíblica
+  - cânon católico
+  - deuterocanônicos
+  - lectio divina
+  - liturgia da Palavra
+  - exegese
+- Search Intents:
+  - localizar passagens bíblicas por livro, capítulo e versículo
+  - estudar a história da salvação na Escritura como um todo
+  - encontrar textos para lectio divina e oração pessoal
+  - buscar passagens usadas na liturgia (missal, liturgia das horas)
+  - apoiar catequese e pregação com referências bíblicas
+- High Relevance Entities:
+  - Deus de Israel
+  - Jesus Cristo
+  - Espírito Santo
+  - povo de Israel
+  - Igreja
+  - profetas
+  - apóstolos
+- Search Snippet:
+  - Texto completo da Bíblia na tradução católica, com Antigo e Novo Testamento, incluindo livros deuterocanônicos, organizado por livro, capítulo e versículo para estudo, oração e uso litúrgico.
+
 ## Antiqua et Nova – Nota sobre a inteligência artificial
 
 - File: Antiqua-et-Nova_AI.md
