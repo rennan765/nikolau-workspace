@@ -766,6 +766,44 @@
 - Search Snippet:
   - Nota doutrinal recente da Santa Sé sobre a relação entre inteligência artificial e inteligência humana, oferecendo uma visão antropológica cristã e critérios éticos para que a IA sirva a dignidade da pessoa e o bem comum, evitando o tecnocratismo e os abusos.
 
+## Redemptionis Sacramentum
+
+- File: Redemptionis-sacramentum_CDS.md
+- Core keywords:
+  - Instrução litúrgica
+  - Santíssima Eucaristia
+  - abusos litúrgicos
+  - comunhão
+  - ministros extraordinários
+  - culto eucarístico
+- Secondary keywords:
+  - Congregação para o Culto Divino e a Disciplina dos Sacramentos
+  - João Paulo II
+  - comunhão na mão e na boca
+  - comunhão sob as duas espécies
+  - adoração eucarística
+  - conservação da Eucaristia
+  - procissões e congressos eucarísticos
+  - homilia e pregação
+  - celebrações na ausência de sacerdote
+  - graviora delicta
+- Search Intents:
+  - quais abusos litúrgicos sobre a Eucaristia são condenados por Redemptionis Sacramentum?
+  - quais são as normas sobre comunhão na mão, na boca e sob as duas espécies?
+  - o que a instrução diz sobre ministros extraordinários da sagrada Comunhão?
+  - como deve ser feita a conservação e adoração da Santíssima Eucaristia fora da Missa?
+  - quais correções e sanções são previstas para abusos graves na celebração da Missa?
+- High Relevance Entities:
+  - Congregação para o Culto Divino e a Disciplina dos Sacramentos
+  - Papa João Paulo II
+  - Conferências Episcopais
+  - Bispos diocesanos
+  - presbíteros
+  - diáconos
+  - fiéis leigos
+- Search Snippet:
+  - Instrução da Santa Sé (2004) sobre «algumas coisas que se devem observar e evitar acerca da Santíssima Eucaristia», detalhando normas sobre celebração da Missa, comunhão, culto eucarístico, ministros extraordinários e correção de abusos litúrgicos.
+
 ## Divini Cultus sanctitatem
 
 - File: Divini-cultus-sanctitatem_Pio-XI.md
