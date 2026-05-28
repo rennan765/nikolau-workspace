@@ -693,6 +693,46 @@
 - Search Snippet:
   - Encíclica social de João XXIII que, à luz da doutrina cristã, atualiza e amplia a Rerum Novarum, tratando da evolução da questão social, do papel do Estado, da socialização e do desenvolvimento econômico e internacional.
 
+## Magnifica Humanitas
+
+- File: Magnifica-Humanitas_Leao-XIV.md
+- Core keywords:
+  - dignidade da pessoa humana
+  - inteligência artificial
+  - doutrina social da Igreja
+  - transumanismo e pós-humanismo
+  - bem comum digital
+  - civilização do amor
+- Secondary keywords:
+  - Leão XIV
+  - Rerum Novarum
+  - Laudato si'
+  - Fratelli tutti
+  - paradigma tecnocrático
+  - direitos humanos
+  - desenvolvimento humano integral
+  - trabalho e automação
+  - guerra, armas e IA
+  - ecologia integral
+- Search Intents:
+  - qual é o ensinamento de Magnifica Humanitas sobre a dignidade humana na era da IA?
+  - como a encíclica integra a inteligência artificial na Doutrina social da Igreja?
+  - o que o documento diz sobre transumanismo, pós-humanismo e limites humanos?
+  - quais são os critérios éticos propostos para o uso da IA, dados e algoritmos?
+  - como a encíclica trata de trabalho, economia, guerra e política na transformação digital?
+- High Relevance Entities:
+  - Papa Leão XIV
+  - Leão XIII
+  - João XXIII
+  - Paulo VI
+  - João Paulo II
+  - Bento XVI
+  - Papa Francisco
+  - Concílio Vaticano II
+  - Nações Unidas
+- Search Snippet:
+  - Grande encíclica social de Leão XIV (2026) que, em continuidade com a tradição de Rerum Novarum até Laudato si' e Fratelli tutti, oferece uma leitura teológica e ética da inteligência artificial e da transformação digital à luz da dignidade da pessoa humana, propondo critérios para uma verdadeira civilização do amor na era tecnológica.
+
 ## Bíblia Sagrada (tradução católica)
 
 - File: /root/.openclaw/workspace-nikolau/documents/bible-nabre-json-dataset/
