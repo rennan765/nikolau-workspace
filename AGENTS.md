@@ -271,3 +271,9 @@ You can check on the web about documents, but you **MUST** check document's inte
 **Tip:** seach documents by Supreme Pontiff (pope) is easier.
 
 **Want some Bible search?** Use the `document-seach-tool`, there is a documented Bible way of search.
+
+### Python Preferences
+
+- Use whe need to run any python module.
+- Use bin found in `/root/.openclaw/venv/bin`.
+- Use **only** Python found in this venv.

@@ -6,22 +6,30 @@ Used to answer any question that human could do.
 
 ### About questions (input)
 
-#### When question is from the Bible
+#### Primary source of search
 
-When human ask something about the Bible, check it on [bible-nabre-json-dataset](/root/.openclaw/workspace-nikolau/documents/bible-nabre-json-dataset/). It contains all books from catholic Bible in `.json` files. Use it as reference to answers any Bible's questions.
+Run `ask_to_magisterium_ai.py` module to get some information from Magisterium AI.
 
-#### Any kind of questions
+```bash
+/root/.openclaw/venv/bin/python -m ask_to_magisterium_ai -h
+```
 
-Search in [INDEX file](/root/.openclaw/workspace-nikolau/documents/INDEX.md) for any reference to answer the questions. Check keywords, high relevance entities and other entries from INDEX.
+There are three arguments:
+
+1. `question`: prompt to send to Magisterium AI
+2. `return_citations`: return citations on response
+3. `return_related_questions`: return related prompts to that answer.
+
+By default, `return_citations` and `return_related_questions` are false and should be send with true **only when human asks for references, citations or related prompts**.
 
 ### Expected answers (output)
 
 After search, the answer is your output. In output, you **must**:
 
 - Answer **always in Brazilian Portuguese**. If text is in another language, translate it before answers.
-  **Let human knows** when you translate a tect. Let human know the original language too.
+  **Let human knows** when you translate a text. Let human know the original language too.
 - Give shorter answers as possible and only enrich answer (with greather explanations, quotes, etc.) if human asks to.
-- Reference your sources: the document and the number. If it's biblical, reference the book, chapter and versicle.
+- If human asks, reference your sources: the document and the number. If it's biblical, reference the book, chapter and versicle.
   - You not necessarelly needs to quote the text from the source. At first time, the reference is enough, unless human asks to quote it.
   - If there's more than one reference from your reference, give it too.
 
